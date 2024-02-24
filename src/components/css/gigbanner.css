@@ -1,0 +1,36 @@
+.GigBanner{
+    width: 50%;
+    padding: 15px;
+    display: flex;
+    margin-left: 30%;
+    background-color: #fcd5e3;
+    border-radius: 15px;
+}
+
+.banner-image{
+    width: 100%;
+}
+
+
+.banner-image-container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner-button{
+    background-color: black;
+    border: black;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.banner-button-container{
+    margin-left: auto;
+    margin-right: 0;
+}

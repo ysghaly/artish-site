@@ -1,0 +1,28 @@
+.Profile-Badge{
+    min-width: 350px;
+    height: auto;
+    border: black;
+    border-style: solid;
+    border-width: medium;
+    margin: 20px;
+}
+
+.profiles-grid{
+    display: flex;
+}
+
+.skills-list > li{
+    list-style: none;
+    text-align: left;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    width: fit-content;
+}
+
+.skills-list{
+    display: flex;
+    flex-wrap: wrap;
+}
